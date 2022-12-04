@@ -1,0 +1,79 @@
+#page-wrapper{
+	background-color: #f8f8f8;
+	min-height: 750px;
+	padding-top: 20px;
+}
+#page-wrapper .container-fluid{
+	margin-top: 30px;
+}
+.container-fluid .row .page-header{
+	color: #6C7293;
+	font-size: 2.5rem;
+	text-align: center;
+    font-family: "Roboto",sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.container-fluid .row form{
+	margin-left: 300px;
+}
+.container-fluid .row{
+}
+
+.container-fluid .row .form-group{
+	margin-top: 13px;
+}
+
+.container-fluid .row .form-group label{
+	font-size: 18px;
+}
+.container-fluid .row .form-group input{
+	background-color: white;
+	width: 650px;
+}
+.container-fluid .row .form-group textarea{
+	background-color: white;
+	width: 650px;
+}
+.container-fluid .row .form-group select{
+	width: 650px;
+	background-color: white;
+	margin-top: 7px;
+}
+
+#fid-name{
+	margin-top: 7px;
+}
+.container-fluid .row .form-group .input-radio{
+	width: auto;
+}
+.container-fluid .row .form-group .radio-inline{
+	margin-left: 100px;
+}
+
+.container-fluid .row .form-btn{
+	float: right;
+	margin-right: 300px;
+	margin-top: 35px;
+}
+
+.container-fluid .row .form-btn .btn-default{
+	color: #f8f8f8;
+	margin-left: 10px;
+	border-radius: 10px;
+	background-color: #b00c45;
+	height: 50px;
+}
+.container-fluid .row .form-btn .btn-default:last-child{
+	width: 150px;
+	background-color: green;
+}
+
+.container-fluid .row .form-checkbox-product label{
+	width: 150px;
+}
+
+.container-fluid .row .form-checkbox-product input{
+	width: 30px;
+}

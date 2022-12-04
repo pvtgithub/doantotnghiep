@@ -1,0 +1,10 @@
+.live-search-results{ text-align:left;color:#111;box-shadow:0 0 10px 0 rgba(0,0,0,0.1);left:0;right:0;background-color:rgba(255,255,255,0.95);position:absolute;top:58px;z-index: 9999;display: none;}
+.autocomplete-suggestions{overflow: scroll;max-height:300px ;}
+.autocomplete-suggestion{padding:10px 0.75em;border-bottom:1px solid rgba(0,0,0,0.05);display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;cursor:default}
+.autocomplete-suggestion .search-name{-ms-flex:1;flex:1}
+.autocomplete-suggestion img{width:40px;border-radius:99px;height:40px;display:inline-block;margin-right:10px}
+.autocomplete-suggestion img+.search-name{margin-top:-0.15em;padding-left:0.5em}
+.autocomplete-suggestion .search-price{padding-top:3px;margin-left:5px;font-size:.8em}
+.autocomplete-suggestion:last-child{border-bottom:none}
+.autocomplete-selected{background-color:rgba(0,0,0,0.05)}
+#search-lightbox{font-size:1.5em;margin:0 auto;max-width:600px}

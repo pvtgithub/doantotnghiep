@@ -1,0 +1,22 @@
+/*!
+ * Start Bootstrap - SB Admin 2 Bootstrap Admin Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    background-color: #f8f8f8;
+}
+
+#wrapper {
+    width: 100%;
+}
+
+#page-wrapper {
+    min-height: 700px;
+    background-color: #f8f8f8;
+    padding-top: 55px;
+}
+#page-wrapper .container-fluid table a{
+    cursor: pointer;
+}

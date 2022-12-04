@@ -1,0 +1,44 @@
+.container{
+	background-color: #f9f9f9;
+}
+.container .detail__wrapper span.title{
+	color: #6C7293;
+	font-size: 2.5rem;
+	font-weight: 700;
+	font-family: "Roboto",sans-serif;
+}
+.container .detail__wrapper span.title-cancel{
+	color: red;
+	text-align: center;
+	font-size: 20px;
+	font-family: "Roboto",sans-serif;
+}
+.form-row{
+	float: right;
+}
+.btn-cancel{
+	background-color: #b00c45;
+	color: #f8f8f8	;
+}
+.form-row a button{
+	background-color: green;
+}
+.form-row a button{
+	color: #f8f8f8;
+}
+.form-row button{
+	height: 40px;
+	border-radius: 15px;
+}
+.container .detail__wrapper .detail__title{
+	text-align: center;
+	height: 70px;
+	justify-content: center;
+}
+.btnDeleteBill{
+	cursor: pointer;
+}
+
+.detail__wrapper .form-row .btnDeleteBillDetail{
+	background-color: darkred;
+}
